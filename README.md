@@ -8,6 +8,8 @@ Esse repositório serve de exemplo para a entrega de atividades da matéria de I
 
 [![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge\&logo=autodesk)](https://www.tinkercad.com/)
 
+https://www.tinkercad.com/things/8xnmVs7ujql-controce-de-microservo-com-potenciometro?sharecode=XVotzrosNn5BZU27OYYShUJqPLzC_kKrAi8qV1Zi2FI
+
 ## Enunciado: Controle de servo motor
 
 O projeto utiliza um potenciômetro para controlar a posição de um servo motor. Ao girar o potenciômetro, o servo acompanha o movimento.
